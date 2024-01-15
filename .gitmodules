@@ -1,0 +1,6 @@
+[submodule "ethereum-test-task"]
+	path = ethereum-test-task
+	url = https://github.com/Dorrrke/ethereum-test-task
+[submodule "proto-ethereum"]
+	path = proto-ethereum
+	url = https://github.com/Dorrrke/proto-ethereum
